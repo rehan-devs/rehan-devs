@@ -38,33 +38,45 @@ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress,netlify,vercel&theme=dark" /></div><br/><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/>
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rehan-devs&theme=tokyonight" width="44%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rehan-devs&theme=tokyonight" width="44%"/> </p><p align="center"> <img src="https://github-readme-streak-stats-gilt-six.vercel.app?user=rehan-devs&theme=tokyonight&hide_border=true" width="55%"/> </p><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rehan-devs&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" width="90%"/> </p><br/><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/>🏆 Certifications
+
 <div align="center">
-Platform	Certification
-🟢 freeCodeCamp	Responsive Web Design
-🟢 freeCodeCamp	JavaScript Algorithms & Data Structures
-🟢 freeCodeCamp	Front End Development Libraries
-🟢 HackerRank	CSS Certification
-🟢 HackerRank	JavaScript Certification
-🟢 HackerRank	React Certification
-🟢 HackerRank	Front End Developer
-🟢 HackerRank	Software Engineer
+
+| Platform | Certification |
+| :---: | :--- |
+| 🟢 **freeCodeCamp** | Responsive Web Design |
+| 🟢 **freeCodeCamp** | JavaScript Algorithms & Data Structures |
+| 🟢 **freeCodeCamp** | Front End Development Libraries |
+| 🟢 **HackerRank** | CSS Certification |
+| 🟢 **HackerRank** | JavaScript Certification |
+| 🟢 **HackerRank** | React Certification |
+| 🟢 **HackerRank** | Front End Developer |
+| 🟢 **HackerRank** | Software Engineer |
+
 </div><br/><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/>
 🧱 Development Philosophy
+
 <div align="center">
-Principle	How I Apply It
-🎯 Pixel Perfect	Every design gets coded exactly as intended, no shortcuts
-📱 Mobile First	Responsive design isn't an afterthought, it's the starting point
-⚡ Performance	Optimized images, clean code, fast load times, every project
-🧹 Clean Code	Code that the next developer won't curse at
-🔍 SEO Friendly	Semantic HTML, proper meta tags, structured for Google
-🤝 Communication	Clear updates, fast responses, no ghosting
+
+| Principle | How I Apply It |
+| :--- | :--- |
+| 🎯 **Pixel Perfect** | Every design gets coded exactly as intended, no shortcuts |
+| 📱 **Mobile First** | Responsive design isn't an afterthought, it's the starting point |
+| ⚡ **Performance** | Optimized images, clean code, fast load times, every project |
+| 🧹 **Clean Code** | Code that the next developer won't curse at |
+| 🔍 **SEO Friendly** | Semantic HTML, proper meta tags, structured for Google |
+| 🤝 **Communication** | Clear updates, fast responses, no ghosting |
+
 </div><br/><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/>🔭 What I'm Looking For
+
 <div align="center">
-🎯	Looking For
-💼	Freelance projects — Landing pages, business sites, React apps
-🤝	Collaborations — Open source, startup MVPs, agency partnerships
-🌍	Remote opportunities — Working with clients and teams worldwide
-📈	Long-term clients — Who value quality, communication, and reliability
+
+| 🎯 | Looking For |
+| :-: | :--- |
+| 💼 | **Freelance projects** — Landing pages, business sites, React apps |
+| 🤝 | **Collaborations** — Open source, startup MVPs, agency partnerships |
+| 🌍 | **Remote opportunities** — Working with clients and teams worldwide |
+| 📈 | **Long-term clients** — Who value quality, communication, and reliability |
+
 </div><br/><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/>
 💬 Let's Connect
 <div align="center">
