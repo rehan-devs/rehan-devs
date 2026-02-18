@@ -6,12 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&duration=2600&pause=900&color=DC2626&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Python;Turning+Figma+Files+Into+Real+Websites;From+Front-End+Pixels+to+Back-End+Logic;Clean+Code.+Fast+Websites.+Happy+Clients."/>
 </p>
 
-<div align="center">─────────────────────────────────────────────────────────────
-I build responsive, pixel-perfect web applications that
+<div align="center">I build responsive, pixel-perfect web applications that
 load fast and work everywhere. From front-end pixels to
 back-end logic — clean code, fast loading, pixel perfect,
 every single time.
-─────────────────────────────────────────────────────────────
+
 </div>
 
 <p align="center">
@@ -64,9 +63,9 @@ every single time.
 
 <br/><br/>
 
-I started coding as a teenager because I thought building websites was cool. Turns out I was right. Now I do it for a living and honestly it still hasn't gotten old. What started as tinkering with HTML in a Notepad window evolved into building complete web applications from scratch.
+I started coding as a teenager because I thought building websites was cool. Turns out I was right. Now I do it for a living, and honestly, it still hasn't gotten old. What started as tinkering with HTML in a Notepad window evolved into building complete web applications from scratch.
 
-I specialize in the entire web development pipeline — from converting Figma designs into pixel-perfect, responsive front-ends using React, Tailwind CSS, and modern JavaScript, to building scalable back-end systems with Node.js, Express, Python, and databases like MongoDB and PostgreSQL.
+I specialize in the entire web development pipeline, from converting Figma designs into pixel-perfect, responsive front-ends with React, Tailwind CSS, and modern JavaScript, to building scalable back-end systems with Node.js, Express, Python, and databases such as MongoDB and PostgreSQL.
 
 **My rule is simple — I don't deliver until I'd proudly put it in my own portfolio. If it's not good enough for my name, it's not good enough for yours.**
 
@@ -335,11 +334,10 @@ I specialize in the entire web development pipeline — from converting Figma de
   <img src="https://img.shields.io/badge/WhatsApp-Chat-dc2626?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a0808"/>
 </a>
 
-<br/><br/>───────────────────────────────────────────────
-📍 Pakistan (UTC+5) — Available Worldwide
+<br/><br/>📍 Pakistan (UTC+5) — Available Worldwide
 ⚡ Response Time: Usually within 2-4 hours
 🌐 Open to remote freelance & collaborations
-───────────────────────────────────────────────
+
 <br/>
 
 *"I don't deliver until I'd proudly put it in my own portfolio.*
