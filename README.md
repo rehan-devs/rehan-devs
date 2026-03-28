@@ -35,7 +35,7 @@ every single time.
   <a href="https://www.linkedin.com/in/rehandevs/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-dc2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0808"/>
   </a>
-  <a href="https://www.fiverr.com/rehandev">
+  <a href="https://www.fiverr.com/s/pdQZmzo">
     <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-dc2626?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=1a0808"/>
   </a>
   <a href="https://wa.me/923107322554">
