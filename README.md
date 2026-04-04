@@ -1,370 +1,574 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0a0505,30:1a0808,60:2d0a0a,100:0a0505&text=REHAN&fontColor=dc2626&fontSize=56&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descColor=d4a0a0&descSize=18&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:667eea,25:764ba2,50:f093fb,75:c471ed,100:667eea&text=REHAN&fontColor=ffffff&fontSize=72&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descColor=e8d5ff&descSize=20&descAlignY=62&stroke=ffffff&strokeWidth=1" width="100%"/>
 </p>
+
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&duration=2600&pause=900&color=DC2626&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Python;Turning+Figma+Files+Into+Real+Websites;From+Front-End+Pixels+to+Back-End+Logic;Clean+Code.+Fast+Websites.+Happy+Clients."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=26&duration=2600&pause=900&color=9B72CF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Python;Turning+Figma+Files+Into+Real+Websites;From+Front-End+Pixels+to+Back-End+Logic;Clean+Code.+Fast+Websites.+Happy+Clients."/>
 </p>
 
-<div align="center">I build responsive, pixel-perfect web applications that
-load fast and work everywhere. From front-end pixels to
-back-end logic — clean code, fast loading, pixel perfect,
-every single time.
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a0808" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a0808" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a0808" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a0808" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a0808" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=1a0808" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a0808" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a0808" alt="Python"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a0808" alt="Tailwind"/>
-</p>
+<br/>
 
 <p align="center">
   <a href="https://github.com/rehan-devs?tab=followers">
-    <img src="https://img.shields.io/github/followers/rehan-devs?label=Followers&style=for-the-badge&color=dc2626&logo=github&logoColor=white&labelColor=1a0808"/>
+    <img src="https://img.shields.io/github/followers/rehan-devs?label=Followers&style=flat-square&color=9B72CF&logo=github&logoColor=white&labelColor=2d1b4e"/>
   </a>
+  &nbsp;
   <a href="mailto:rennylifts@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Say%20Hi-dc2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0808"/>
+    <img src="https://img.shields.io/badge/Gmail-Say%20Hi-9B72CF?style=flat-square&logo=gmail&logoColor=white&labelColor=2d1b4e"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/rehandevs/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-dc2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0808"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-9B72CF?style=flat-square&logo=linkedin&logoColor=white&labelColor=2d1b4e"/>
   </a>
+  &nbsp;
   <a href="https://www.fiverr.com/s/pdQZmzo">
-    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-dc2626?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=1a0808"/>
+    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-9B72CF?style=flat-square&logo=fiverr&logoColor=white&labelColor=2d1b4e"/>
   </a>
+  &nbsp;
   <a href="https://wa.me/923107322554">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-dc2626?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a0808"/>
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-9B72CF?style=flat-square&logo=whatsapp&logoColor=white&labelColor=2d1b4e"/>
   </a>
 </p>
 
 <br/>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<br/>
-
-## ▸ About Me
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
 
-<img src="https://img.shields.io/badge/ROLE-Full%20Stack%20Developer-dc2626?style=flat-square&labelColor=1a0808"/>
-<img src="https://img.shields.io/badge/LOCATION-Pakistan-dc2626?style=flat-square&labelColor=1a0808"/>
-<img src="https://img.shields.io/badge/PROJECTS-50+-dc2626?style=flat-square&labelColor=1a0808"/>
-<img src="https://img.shields.io/badge/CLIENTS-30+-dc2626?style=flat-square&labelColor=1a0808"/>
-<img src="https://img.shields.io/badge/ON%20TIME-100%25-dc2626?style=flat-square&labelColor=1a0808"/>
+<br/>
 
-<br/><br/>
+<div align="center">
+  <picture>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehan-devs&bg_color=0d0d1a&color=c471ed&line=9B72CF&point=f093fb&area=true&area_color=c471ed&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
+
+<br/>
+
+## &nbsp;&nbsp;◈ &nbsp; About Me
+
+<table align="center" width="96%">
+<tr>
+<td width="55%" valign="top">
+
+<br/>
 
 I started coding as a teenager because I thought building websites was cool. Turns out I was right. Now I do it for a living, and honestly, it still hasn't gotten old. What started as tinkering with HTML in a Notepad window evolved into building complete web applications from scratch.
 
-I specialize in the entire web development pipeline, from converting Figma designs into pixel-perfect, responsive front-ends with React, Tailwind CSS, and modern JavaScript, to building scalable back-end systems with Node.js, Express, Python, and databases such as MongoDB and PostgreSQL.
+I specialize in the entire web development pipeline — from converting Figma designs into pixel-perfect, responsive front-ends with React, Tailwind CSS, and modern JavaScript, to building scalable back-end systems with Node.js, Express, Python, and databases such as MongoDB and PostgreSQL.
 
-**My rule is simple — I don't deliver until I'd proudly put it in my own portfolio. If it's not good enough for my name, it's not good enough for yours.**
-
-</div>
+> **My rule is simple — I don't deliver until I'd proudly put it in my own portfolio. If it's not good enough for my name, it's not good enough for yours.**
 
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+</td>
+<td width="45%" valign="top" align="center">
 
 <br/>
 
-## ▸ What I Do
-
-<div align="center">
-
-### Front-End
-
-| | Service | What You Get | Stack |
-|:---:|:---|:---|:---|
-| 🎨 | **Figma / PSD to Code** | Pixel-perfect responsive websites from any design file | `Figma` `PSD` `XD` `Sketch` |
-| ⚛️ | **React / Next.js** | Interactive SPAs and server-rendered apps with modern React | `React` `Next.js` `TypeScript` `Redux` |
-| 📱 | **Responsive Design** | Websites that work perfectly on every device and browser | `Tailwind` `Bootstrap` `CSS3` `SASS` |
-| 🚀 | **Landing Pages** | High-converting pages optimized for speed, SEO, and results | `GSAP` `Framer Motion` `SEO` |
-| 📝 | **WordPress / CMS** | Custom themes and sites your clients can manage themselves | `WordPress` `Elementor` `WooCommerce` |
-| ✨ | **Animations** | Smooth scroll effects, micro-interactions, page transitions | `GSAP` `Framer Motion` `Lottie` |
-
-### Back-End
-
-| | Service | What You Get | Stack |
-|:---:|:---|:---|:---|
-| ⚙️ | **API Development** | Robust RESTful APIs and GraphQL endpoints that scale | `Node.js` `Express` `Python` `Django` |
-| 🗄️ | **Database Design** | Schema design, optimization, and data management | `MongoDB` `PostgreSQL` `MySQL` `Firebase` |
-| 🔐 | **Auth & Security** | JWT, OAuth, role-based access control, social logins | `Passport.js` `JWT` `OAuth 2.0` `2FA` |
-| ☁️ | **Deployment** | CI/CD pipelines, Docker, cloud deployment, SSL setup | `Vercel` `AWS` `Docker` `Nginx` |
-| 🛒 | **E-Commerce** | Full shopping experiences with payments and admin panels | `Stripe` `PayPal` `Shopify` |
-| 🔧 | **Bug Fixes** | Debugging, performance optimization, legacy code refactoring | `Lighthouse` `Core Web Vitals` |
-
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<br/>
-
-## ▸ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark" />
-
-### Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,django,flask,express&theme=dark" />
-
-### Databases & Backend
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,nodejs&theme=dark" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress,netlify,vercel,docker&theme=dark" />
+<img src="https://img.shields.io/badge/ROLE-Full%20Stack%20Developer-c471ed?style=flat-square&labelColor=2d1b4e&color=9B72CF"/>
 
 <br/><br/>
 
-| Category | Technologies |
-|:---|:---|
-| **Front-End** | `HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Bootstrap` `SASS` |
-| **Back-End** | `Node.js` `Express.js` `Python` `Django` `Flask` `REST APIs` `GraphQL` |
-| **Databases** | `MongoDB` `PostgreSQL` `MySQL` `Firebase` `Prisma` |
-| **Auth** | `JWT` `OAuth 2.0` `Passport.js` `RBAC` `2FA` |
-| **DevOps** | `Docker` `Nginx` `Vercel` `Netlify` `AWS` `GitHub Actions` `CI/CD` |
-| **Design** | `Figma` `Adobe XD` `Photoshop` `Sketch` |
-| **Animations** | `GSAP` `Framer Motion` `Lottie` `CSS Animations` |
+<img src="https://img.shields.io/badge/LOCATION-Pakistan-c471ed?style=flat-square&labelColor=2d1b4e&color=9B72CF"/>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PROJECTS-50+-c471ed?style=flat-square&labelColor=2d1b4e&color=9B72CF"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CLIENTS-30+-c471ed?style=flat-square&labelColor=2d1b4e&color=9B72CF"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ON%20TIME-100%25-c471ed?style=flat-square&labelColor=2d1b4e&color=9B72CF"/>
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+## &nbsp;&nbsp;◈ &nbsp; What I Do
 
 <br/>
-
-## ▸ Recent Projects
-
-<details>
-<summary><b>FlowSync</b> — SaaS Platform</summary>
-<br/>
-
-| | Details |
-|:---|:---|
-| 🔗 | **[sync-flow.netlify.app](http://sync-flow.netlify.app/)** |
-| 📋 | Fully responsive SaaS platform with animated hero, dashboard UI, and seamless user flows |
-| 🛠️ | `React` `Tailwind CSS` `Modern UI` `Responsive Design` |
-| ✅ | Dark-themed interface with smooth transitions and conversion-optimized layouts |
-
-</details>
-
-<details>
-<summary><b>Nexus</b> — Digital Agency</summary>
-<br/>
-
-| | Details |
-|:---|:---|
-| 🔗 | **[nexushq.netlify.app](http://nexushq.netlify.app/)** |
-| 📋 | Sleek digital agency website with smooth GSAP animations and a modern premium design |
-| 🛠️ | `HTML5` `CSS3` `JavaScript` `GSAP` |
-| ✅ | 40% increase in client inquiries after launch |
-
-</details>
-
-<details>
-<summary><b>Stride</b> — E-Commerce</summary>
-<br/>
-
-| | Details |
-|:---|:---|
-| 🔗 | **[stridesneakers.netlify.app](http://stridesneakers.netlify.app/)** |
-| 📋 | Complete sneaker e-commerce experience with product browsing, cart, and checkout flow |
-| 🛠️ | `React` `Tailwind CSS` `Stripe` `Responsive` |
-| ✅ | Sales increased 60% in the first month after launch |
-
-</details>
-
-<details>
-<summary><b>Aurum</b> — Restaurant</summary>
-<br/>
-
-| | Details |
-|:---|:---|
-| 🔗 | **[aurumdines.netlify.app](http://aurumdines.netlify.app/)** |
-| 📋 | Luxurious restaurant website with elegant design and online reservation system |
-| 🛠️ | `HTML5` `CSS3` `JavaScript` |
-| ✅ | Online reservations tripled within the first week |
-
-</details>
-
-<br/>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<br/>
-
-## ▸ GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rehan-devs&theme=dracula" width="44%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rehan-devs&theme=dracula" width="44%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-gilt-six.vercel.app?user=rehan-devs&theme=dark&hide_border=true&ring=dc2626&fire=dc2626&currStreakLabel=dc2626&sideLabels=d4a0a0&dates=8b5c5c&background=0a0505&currStreakNum=fef2f2&sideNums=fef2f2" width="55%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rehan-devs&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" width="90%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rehan-devs&theme=dracula" width="90%"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<br/>
-
-## ▸ Certifications
 
 <div align="center">
 
-| Status | Platform | Certification |
-|:---:|:---|:---|
-| ✅ | **freeCodeCamp** | Responsive Web Design |
-| ✅ | **freeCodeCamp** | JavaScript Algorithms & Data Structures |
-| ✅ | **freeCodeCamp** | Front End Development Libraries |
-| ✅ | **HackerRank** | CSS Certification |
-| ✅ | **HackerRank** | JavaScript Certification |
-| ✅ | **HackerRank** | React Certification |
-| ✅ | **HackerRank** | Front End Developer |
-| ✅ | **HackerRank** | Software Engineer |
+### &nbsp; Front-End
+
+<table width="96%">
+<tr>
+<td align="center" width="8%">🎨</td>
+<td width="28%"><b>Figma / PSD to Code</b></td>
+<td width="40%">Pixel-perfect responsive websites from any design file</td>
+<td width="24%"><code>Figma</code> <code>PSD</code> <code>XD</code> <code>Sketch</code></td>
+</tr>
+<tr>
+<td align="center">⚛️</td>
+<td><b>React / Next.js</b></td>
+<td>Interactive SPAs and server-rendered apps with modern React</td>
+<td><code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Redux</code></td>
+</tr>
+<tr>
+<td align="center">📱</td>
+<td><b>Responsive Design</b></td>
+<td>Websites that work perfectly on every device and browser</td>
+<td><code>Tailwind</code> <code>Bootstrap</code> <code>CSS3</code> <code>SASS</code></td>
+</tr>
+<tr>
+<td align="center">🚀</td>
+<td><b>Landing Pages</b></td>
+<td>High-converting pages optimized for speed, SEO, and results</td>
+<td><code>GSAP</code> <code>Framer Motion</code> <code>SEO</code></td>
+</tr>
+<tr>
+<td align="center">📝</td>
+<td><b>WordPress / CMS</b></td>
+<td>Custom themes and sites your clients can manage themselves</td>
+<td><code>WordPress</code> <code>Elementor</code> <code>WooCommerce</code></td>
+</tr>
+<tr>
+<td align="center">✨</td>
+<td><b>Animations</b></td>
+<td>Smooth scroll effects, micro-interactions, page transitions</td>
+<td><code>GSAP</code> <code>Framer Motion</code> <code>Lottie</code></td>
+</tr>
+</table>
+
+<br/>
+
+### &nbsp; Back-End
+
+<table width="96%">
+<tr>
+<td align="center" width="8%">⚙️</td>
+<td width="28%"><b>API Development</b></td>
+<td width="40%">Robust RESTful APIs and GraphQL endpoints that scale</td>
+<td width="24%"><code>Node.js</code> <code>Express</code> <code>Python</code> <code>Django</code></td>
+</tr>
+<tr>
+<td align="center">🗄️</td>
+<td><b>Database Design</b></td>
+<td>Schema design, optimization, and data management</td>
+<td><code>MongoDB</code> <code>PostgreSQL</code> <code>MySQL</code> <code>Firebase</code></td>
+</tr>
+<tr>
+<td align="center">🔐</td>
+<td><b>Auth & Security</b></td>
+<td>JWT, OAuth, role-based access control, social logins</td>
+<td><code>Passport.js</code> <code>JWT</code> <code>OAuth 2.0</code> <code>2FA</code></td>
+</tr>
+<tr>
+<td align="center">☁️</td>
+<td><b>Deployment</b></td>
+<td>CI/CD pipelines, Docker, cloud deployment, SSL setup</td>
+<td><code>Vercel</code> <code>AWS</code> <code>Docker</code> <code>Nginx</code></td>
+</tr>
+<tr>
+<td align="center">🛒</td>
+<td><b>E-Commerce</b></td>
+<td>Full shopping experiences with payments and admin panels</td>
+<td><code>Stripe</code> <code>PayPal</code> <code>Shopify</code></td>
+</tr>
+<tr>
+<td align="center">🔧</td>
+<td><b>Bug Fixes</b></td>
+<td>Debugging, performance optimization, legacy code refactoring</td>
+<td><code>Lighthouse</code> <code>Core Web Vitals</code></td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
 
 <br/>
 
-## ▸ Development Philosophy
+## &nbsp;&nbsp;◈ &nbsp; Tech Stack
+
+<br/>
 
 <div align="center">
 
-| # | Principle | How I Apply It |
-|:---:|:---|:---|
-| 01 | **Pixel Perfect** | Every design gets coded exactly as intended — no shortcuts, no compromises |
-| 02 | **Mobile First** | Responsive design isn't an afterthought — it's the starting point |
-| 03 | **Performance** | Optimized assets, clean code, fast load times on every single project |
-| 04 | **Clean Code** | Readable, documented, structured code that any developer can pick up |
-| 05 | **SEO Friendly** | Semantic HTML, proper meta tags, structured data for search engines |
-| 06 | **Security First** | Every input validated, every token encrypted, every gate locked |
-| 07 | **Communication** | Clear updates, fast responses, full transparency — no ghosting ever |
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2d1b4e" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=2d1b4e" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=2d1b4e" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2d1b4e" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2d1b4e" alt="Python"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=2d1b4e" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=2d1b4e" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=2d1b4e" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=2d1b4e" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=2d1b4e" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=2d1b4e" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=2d1b4e" alt="Express"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=2d1b4e" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2d1b4e" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2d1b4e" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=2d1b4e" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=2d1b4e" alt="Node.js"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2d1b4e" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2d1b4e" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=2d1b4e" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=2d1b4e" alt="Figma"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=2d1b4e" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2d1b4e" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=2d1b4e" alt="Docker"/>
+</p>
 
 </div>
 
 <br/>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
+
+<br/>
+
+## &nbsp;&nbsp;◈ &nbsp; Recent Projects
+
+<br/>
+
+<table align="center" width="96%">
+
+<tr>
+<td width="50%" valign="top">
+
+### &nbsp; FlowSync &nbsp;—&nbsp; SaaS Platform
+
+**[↗ sync-flow.netlify.app](http://sync-flow.netlify.app/)**
+
+Fully responsive SaaS platform with animated hero, dashboard UI, and seamless user flows.
+
+`React` `Tailwind CSS` `Modern UI` `Responsive Design`
+
+> Dark-themed interface with smooth transitions and conversion-optimized layouts.
+
+</td>
+<td width="50%" valign="top">
+
+### &nbsp; Nexus &nbsp;—&nbsp; Digital Agency
+
+**[↗ nexushq.netlify.app](http://nexushq.netlify.app/)**
+
+Sleek digital agency website with smooth GSAP animations and a modern premium design.
+
+`HTML5` `CSS3` `JavaScript` `GSAP`
+
+> 40% increase in client inquiries after launch.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### &nbsp; Stride &nbsp;—&nbsp; E-Commerce
+
+**[↗ stridesneakers.netlify.app](http://stridesneakers.netlify.app/)**
+
+Complete sneaker e-commerce experience with product browsing, cart, and checkout flow.
+
+`React` `Tailwind CSS` `Stripe` `Responsive`
+
+> Sales increased 60% in the first month after launch.
+
+</td>
+<td width="50%" valign="top">
+
+### &nbsp; Aurum &nbsp;—&nbsp; Restaurant
+
+**[↗ aurumdines.netlify.app](http://aurumdines.netlify.app/)**
+
+Luxurious restaurant website with elegant design and online reservation system.
+
+`HTML5` `CSS3` `JavaScript`
+
+> Online reservations tripled within the first week.
+
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
+
+<br/>
+
+## &nbsp;&nbsp;◈ &nbsp; GitHub Analytics
+
+<br/>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rehan-devs&theme=2077" width="44%"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rehan-devs&theme=2077" width="44%"/>
 </p>
 
 <br/>
 
-## ▸ What I'm Looking For
+<p align="center">
+  <img src="https://github-readme-streak-stats-gilt-six.vercel.app?user=rehan-devs&theme=midnight-purple&hide_border=true&ring=c471ed&fire=f093fb&currStreakLabel=c471ed&background=0d0d1a&sideLabels=c471ed&dates=9B72CF&currStreakNum=ffffff&sideNums=ffffff" width="60%"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rehan-devs&theme=discord&no-frame=true&row=1&column=7&margin-w=8" width="92%"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rehan-devs&theme=2077" width="92%"/>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
+
+<br/>
+
+## &nbsp;&nbsp;◈ &nbsp; Certifications
+
+<br/>
 
 <div align="center">
 
-| | Opportunity |
-|:---:|:---|
-| 💼 | **Freelance projects** — Landing pages, business sites, React apps, full stack platforms |
-| 🤝 | **Collaborations** — Open source, startup MVPs, agency partnerships |
-| 🌍 | **Remote work** — Working with clients and teams worldwide |
-| 📈 | **Long-term clients** — Who value quality, communication, and reliability |
-| 🔧 | **Complex problems** — Legacy code refactoring, performance optimization, scaling |
+<table width="72%">
+<tr>
+<td align="center" width="12%">✦</td>
+<td width="35%"><b>freeCodeCamp</b></td>
+<td>Responsive Web Design</td>
+</tr>
+<tr>
+<td align="center">✦</td>
+<td><b>freeCodeCamp</b></td>
+<td>JavaScript Algorithms & Data Structures</td>
+</tr>
+<tr>
+<td align="center">✦</td>
+<td><b>freeCodeCamp</b></td>
+<td>Front End Development Libraries</td>
+</tr>
+<tr>
+<td align="center">✦</td>
+<td><b>HackerRank</b></td>
+<td>CSS Certification</td>
+</tr>
+<tr>
+<td align="center">✦</td>
+<td><b>HackerRank</b></td>
+<td>JavaScript Certification</td>
+</tr>
+<tr>
+<td align="center">✦</td>
+<td><b>HackerRank</b></td>
+<td>React Certification</td>
+</tr>
+<tr>
+<td align="center">✦</td>
+<td><b>HackerRank</b></td>
+<td>Front End Developer</td>
+</tr>
+<tr>
+<td align="center">✦</td>
+<td><b>HackerRank</b></td>
+<td>Software Engineer</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
 
 <br/>
 
-## ▸ Let's Connect
+## &nbsp;&nbsp;◈ &nbsp; Development Philosophy
+
+<br/>
+
+<div align="center">
+
+<table width="88%">
+<tr>
+<td align="center" width="6%"><b>01</b></td>
+<td width="22%"><b>Pixel Perfect</b></td>
+<td>Every design gets coded exactly as intended — no shortcuts, no compromises</td>
+</tr>
+<tr>
+<td align="center"><b>02</b></td>
+<td><b>Mobile First</b></td>
+<td>Responsive design isn't an afterthought — it's the starting point</td>
+</tr>
+<tr>
+<td align="center"><b>03</b></td>
+<td><b>Performance</b></td>
+<td>Optimized assets, clean code, fast load times on every single project</td>
+</tr>
+<tr>
+<td align="center"><b>04</b></td>
+<td><b>Clean Code</b></td>
+<td>Readable, documented, structured code that any developer can pick up</td>
+</tr>
+<tr>
+<td align="center"><b>05</b></td>
+<td><b>SEO Friendly</b></td>
+<td>Semantic HTML, proper meta tags, structured data for search engines</td>
+</tr>
+<tr>
+<td align="center"><b>06</b></td>
+<td><b>Security First</b></td>
+<td>Every input validated, every token encrypted, every gate locked</td>
+</tr>
+<tr>
+<td align="center"><b>07</b></td>
+<td><b>Communication</b></td>
+<td>Clear updates, fast responses, full transparency — no ghosting ever</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
+
+<br/>
+
+## &nbsp;&nbsp;◈ &nbsp; What I'm Looking For
+
+<br/>
+
+<div align="center">
+
+<table width="72%">
+<tr>
+<td align="center" width="6%">💼</td>
+<td width="34%"><b>Freelance projects</b></td>
+<td>Landing pages, business sites, React apps, full stack platforms</td>
+</tr>
+<tr>
+<td align="center">🤝</td>
+<td><b>Collaborations</b></td>
+<td>Open source, startup MVPs, agency partnerships</td>
+</tr>
+<tr>
+<td align="center">🌍</td>
+<td><b>Remote work</b></td>
+<td>Working with clients and teams worldwide</td>
+</tr>
+<tr>
+<td align="center">📈</td>
+<td><b>Long-term clients</b></td>
+<td>Who value quality, communication, and reliability</td>
+</tr>
+<tr>
+<td align="center">🔧</td>
+<td><b>Complex problems</b></td>
+<td>Legacy code refactoring, performance optimization, scaling</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
+
+<br/>
+
+## &nbsp;&nbsp;◈ &nbsp; Let's Connect
+
+<br/>
 
 <div align="center">
 
 <a href="mailto:rennylifts@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-dc2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0808"/>
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-9B72CF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d1b4e"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/rehandevs/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-dc2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0808"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-9B72CF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2d1b4e"/>
 </a>
+&nbsp;
 <a href="https://www.fiverr.com/s/pdQZmzo">
-  <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-dc2626?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=1a0808"/>
+  <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-9B72CF?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=2d1b4e"/>
 </a>
+&nbsp;
 <a href="https://wa.me/923107322554">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat-dc2626?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a0808"/>
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-9B72CF?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=2d1b4e"/>
 </a>
 
-<br/><br/>📍 Pakistan (UTC+5) — Available Worldwide
-⚡ Response Time: Usually within 2-4 hours
-🌐 Open to remote freelance & collaborations
+<br/><br/>
+
+📍 Pakistan (UTC+5) &nbsp;—&nbsp; Available Worldwide &nbsp;&nbsp;|&nbsp;&nbsp; ⚡ Response Time: Usually within 2-4 hours &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 Open to remote freelance & collaborations
+
+<br/><br/>
+
+> *"I don't deliver until I'd proudly put it in my own portfolio.*
+> *If it's not good enough for my name, it's not good enough for yours."*
 
 <br/>
-
-*"I don't deliver until I'd proudly put it in my own portfolio.*
-*If it's not good enough for my name, it's not good enough for yours."*
-
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<br/>
-
-<div align="center">
 
 **If you like what you see, drop a star on my repos — it means a lot.**
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rehan-devs&color=dc2626&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=rehan-devs&color=9B72CF&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br/>
+<br/><br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0a0505,30:1a0808,60:2d0a0a,100:0a0505&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:667eea,25:764ba2,50:f093fb,75:c471ed,100:667eea&section=footer&fontColor=ffffff&fontSize=18&animation=fadeIn" width="100%"/>
 </p>
