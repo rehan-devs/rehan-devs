@@ -1,65 +1,65 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=0:000000,50:0a0a2e,100:000000&text=REHAN&fontColor=ffff00&fontSize=72&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descColor=00ff41&descSize=20&descAlignY=62&stroke=ffff00&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=0:000000,50:0a0a2e,100:000000&text=REHAN&fontColor=ffff00&fontSize=72&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descColor=00ff41&descSize=20&descAlignY=62&stroke=ffff00&strokeWidth=2" width="100%"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=600&size=11&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Python;Turning+Figma+Files+Into+Real+Websites;From+Front-End+Pixels+to+Back-End+Logic;Clean+Code.+Fast+Websites.+Happy+Clients."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=600&size=11&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Python;Turning+Figma+Files+Into+Real+Websites;From+Front-End+Pixels+to+Back-End+Logic;Clean+Code.+Fast+Websites.+Happy+Clients."/>
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/rehan-devs?tab=followers">
-    <img src="https://img.shields.io/github/followers/rehan-devs?label=Followers&style=flat-square&color=00ff41&logo=github&logoColor=white&labelColor=000000"/>
-  </a>
-  &nbsp;
-  <a href="mailto:rennylifts@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Say%20Hi-00ff41?style=flat-square&logo=gmail&logoColor=white&labelColor=000000"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/rehandevs/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-00ff41?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000"/>
-  </a>
-  &nbsp;
-  <a href="https://www.fiverr.com/s/pdQZmzo">
-    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-00ff41?style=flat-square&logo=fiverr&logoColor=white&labelColor=000000"/>
-  </a>
-  &nbsp;
-  <a href="https://wa.me/923107322554">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-00ff41?style=flat-square&logo=whatsapp&logoColor=white&labelColor=000000"/>
-  </a>
+<a href="https://github.com/rehan-devs?tab=followers">
+<img src="https://img.shields.io/github/followers/rehan-devs?label=Followers&style=flat-square&color=00ff41&logo=github&logoColor=white&labelColor=000000"/>
+</a>
+&nbsp;
+<a href="mailto:rennylifts@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Say%20Hi-00ff41?style=flat-square&logo=gmail&logoColor=white&labelColor=000000"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/rehandevs/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00ff41?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000"/>
+</a>
+&nbsp;
+<a href="https://www.fiverr.com/s/pdQZmzo">
+<img src="https://img.shields.io/badge/Fiverr-Hire%20Me-00ff41?style=flat-square&logo=fiverr&logoColor=white&labelColor=000000"/>
+</a>
+&nbsp;
+<a href="https://wa.me/923107322554">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-00ff41?style=flat-square&logo=whatsapp&logoColor=white&labelColor=000000"/>
+</a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
 <br/>
 
 <!-- PAC-MAN CONTRIBUTION GRAPH -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/images/github-contribution-grid-pacman-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset=".github/images/github-contribution-grid-pacman.svg" />
-    <img alt="GitHub Pac-Man contribution graph" src=".github/images/pacman-contribution-graph.svg" />
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rehan-devs/rehan-devs/output/github-contribution-grid-pacman-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rehan-devs/rehan-devs/output/github-contribution-grid-pacman.svg"/>
+<img alt="pac-man contribution graph" src="https://raw.githubusercontent.com/rehan-devs/rehan-devs/output/github-contribution-grid-pacman.svg" width="95%"/>
+</picture>
 </div>
 
 <br/>
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehan-devs&bg_color=0a0a0a&color=00ff41&line=ffff00&point=ff0066&area=true&area_color=00ff4133&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rehan-devs&bg_color=0a0a0a&color=00ff41&line=ffff00&point=ff0066&area=true&area_color=00ff4133&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
 <br/>
@@ -112,7 +112,7 @@ I specialize in the entire web development pipeline — from converting Figma de
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
 <br/>
@@ -212,7 +212,7 @@ I specialize in the entire web development pipeline — from converting Figma de
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
 <br/>
@@ -224,39 +224,39 @@ I specialize in the entire web development pipeline — from converting Figma de
 <div align="center">
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Python"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Python"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00ff41&labelColor=000000" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000000" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00ff41&labelColor=000000" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffff00&labelColor=000000" alt="Express"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00ff41&labelColor=000000" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000000" alt="Django"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00ff41&labelColor=000000" alt="Flask"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffff00&labelColor=000000" alt="Express"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=000000" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000" alt="Node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=000000" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000" alt="Node.js"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000" alt="Figma"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=000000" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00ff41&labelColor=000000" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000" alt="VSCode"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000" alt="Figma"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=000000" alt="WordPress"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00ff41&labelColor=000000" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" alt="Docker"/>
 </p>
 
 </div>
@@ -264,7 +264,7 @@ I specialize in the entire web development pipeline — from converting Figma de
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
 <br/>
@@ -338,7 +338,7 @@ Luxurious restaurant website with elegant design and online reservation system.
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
 <br/>
@@ -348,33 +348,33 @@ Luxurious restaurant website with elegant design and online reservation system.
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rehan-devs&theme=2077" width="44%"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rehan-devs&theme=2077" width="44%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rehan-devs&theme=2077" width="44%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rehan-devs&theme=2077" width="44%"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-gilt-six.vercel.app?user=rehan-devs&theme=midnight-purple&hide_border=true&ring=ffff00&fire=ff0066&currStreakLabel=00ff41&background=0a0a0a&sideLabels=00ff41&dates=ffff00&currStreakNum=ffffff&sideNums=ffffff" width="60%"/>
+<img src="https://github-readme-streak-stats-gilt-six.vercel.app?user=rehan-devs&theme=midnight-purple&hide_border=true&ring=ffff00&fire=ff0066&currStreakLabel=00ff41&background=0a0a0a&sideLabels=00ff41&dates=ffff00&currStreakNum=ffffff&sideNums=ffffff" width="60%"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rehan-devs&theme=matrix&no-frame=true&row=1&column=7&margin-w=8" width="92%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rehan-devs&theme=matrix&no-frame=true&row=1&column=7&margin-w=8" width="92%"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rehan-devs&theme=2077" width="92%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rehan-devs&theme=2077" width="92%"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
 <br/>
@@ -433,7 +433,7 @@ Luxurious restaurant website with elegant design and online reservation system.
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
 <br/>
@@ -487,7 +487,7 @@ Luxurious restaurant website with elegant design and online reservation system.
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
 <br/>
@@ -531,7 +531,7 @@ Luxurious restaurant website with elegant design and online reservation system.
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
 <br/>
@@ -543,19 +543,19 @@ Luxurious restaurant website with elegant design and online reservation system.
 <div align="center">
 
 <a href="mailto:rennylifts@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-00ff41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Email-Let's%20Talk-00ff41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/rehandevs/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-00ff41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00ff41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
 </a>
 &nbsp;
 <a href="https://www.fiverr.com/s/pdQZmzo">
-  <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-00ff41?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Fiverr-Hire%20Me-00ff41?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=000000"/>
 </a>
 &nbsp;
 <a href="https://wa.me/923107322554">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat-00ff41?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/WhatsApp-Chat-00ff41?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
 </a>
 
 <br/><br/>
@@ -580,5 +580,5 @@ Luxurious restaurant website with elegant design and online reservation system.
 <br/><br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,50:0a0a0a,100:000000&fontColor=00ff41&fontSize=14&animation=fadeIn&text=🟡%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,50:0a0a0a,100:000000&fontColor=00ff41&fontSize=14&animation=fadeIn&text=🟡%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20" width="100%"/>
 </p>
