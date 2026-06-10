@@ -74,7 +74,7 @@
 
 I started coding as a teenager because I thought building websites was cool. Turns out I was right. Now I do it for a living, and honestly, it still hasn't gotten old. What started as tinkering with HTML in a Notepad window evolved into building complete web applications from scratch.
 
-I specialize in the entire web development pipeline — from converting Figma designs into pixel-perfect, responsive front-ends with React, Tailwind CSS, and modern JavaScript, to building scalable back-end systems with Node.js, Express, Python, and databases such as MongoDB and PostgreSQL.
+I specialize in crafting engaging and responsive user interfaces — from converting Figma designs into pixel perfect front ends using React Tailwind CSS and modern JavaScript to optimizing performance accessibility and cross browser compatibility for seamless user experiences.
 
 > **My rule is simple — I don't deliver until I'd proudly put it in my own portfolio. If it's not good enough for my name, it's not good enough for yours.**
 
@@ -85,7 +85,7 @@ I specialize in the entire web development pipeline — from converting Figma de
 
 <br/>
 
-<img src="https://img.shields.io/badge/ROLE-Full%20Stack%20Developer-00ff41?style=flat-square&labelColor=000000&color=00ff41"/>
+<img src="https://img.shields.io/badge/ROLE-Front%20End%20Developer-00ff41?style=flat-square&labelColor=000000&color=00ff41"/>
 
 <br/><br/>
 
