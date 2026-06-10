@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/github/followers/rehan-devs?label=Followers&style=flat-square&color=00ff41&logo=github&logoColor=white&labelColor=000000"/>
 </a>
 &nbsp;
-<a href="mailto:rennylifts@gmail.com">
+<a href="mailto:rehandevs1@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Say%20Hi-00ff41?style=flat-square&logo=gmail&logoColor=white&labelColor=000000"/>
 </a>
 &nbsp;
