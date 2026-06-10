@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=0:000000,50:0a0a2e,100:000000&text=REHAN&fontColor=ffff00&fontSize=72&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descColor=00ff41&descSize=20&descAlignY=62&stroke=ffff00&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=0:000000,50:0a0a2e,100:000000&text=REHAN&fontColor=ffff00&fontSize=72&animation=fadeIn&fontAlignY=40&desc=Front%20End%20Developer&descColor=00ff41&descSize=20&descAlignY=62&stroke=ffff00&strokeWidth=2" width="100%"/>
 </p>
 
 <br/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=600&size=11&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Python;Turning+Figma+Files+Into+Real+Websites;From+Front-End+Pixels+to+Back-End+Logic;Clean+Code.+Fast+Websites.+Happy+Clients."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=600&size=11&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=Front+End+Developer+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Python;Turning+Figma+Files+Into+Real+Websites;From+UI+Designs+to+Pixel+Perfect+Websites;Clean+Code.+Fast+Websites.+Happy+Clients."/>
 </p>
 
 <br/>
