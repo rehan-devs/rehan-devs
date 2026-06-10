@@ -542,7 +542,7 @@ Luxurious restaurant website with elegant design and online reservation system.
 
 <div align="center">
 
-<a href="mailto:rennylifts@gmail.com">
+<a href="mailto:rehandevs1@gmail.com">
 <img src="https://img.shields.io/badge/Email-Let's%20Talk-00ff41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
 </a>
 &nbsp;
